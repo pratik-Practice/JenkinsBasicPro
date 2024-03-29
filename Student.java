@@ -4,6 +4,7 @@ public class Student {
     }
     public void hello(){
         System.out.println("this is hello method");
+        System.err.println("error");
     }
     
 }
